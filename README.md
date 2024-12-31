@@ -1,4 +1,5 @@
 # Betternow-Ai
+# Project overview
 <p align="center">
 🌟 Your AI companion for brighter days, one conversation at a time
 </p>
